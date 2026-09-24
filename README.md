@@ -1,4 +1,4 @@
-# Product Admin Dashboard (React 19 SPA)
+# Product Admin Dashboard 
 
 A modern, high-performance Product Admin Dashboard built with pure **React 19**, **Vite**, **React Router v7**, **Tailwind CSS v4**, and **Axios**, powered by the free [DummyJSON API](https://dummyjson.com).
 
